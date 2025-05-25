@@ -1,4 +1,5 @@
 
+
 ## Cài đặt
 
 1.  **Clone repository (Nếu có):**
@@ -186,3 +187,5 @@ doan/
     ├── datasets.py         # Định nghĩa các lớp Dataset (vd: PdestreFeatureDataset từ dataset_multiannotation_gemini.py)
     ├── models.py           # Định nghĩa kiến trúc model tùy chỉnh (vd: feature extractor từ model.py)
     └── utils.py            # Các hàm tiện ích dùng chung (vd: visualize_sample, parse_image_path...)
+
+
