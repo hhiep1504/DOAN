@@ -195,12 +195,12 @@ doan/
 
 ## Features
 
-- ✅ YOLOv10-based person detection
-- ✅ ResNet50-based demographic feature classification
-- ✅ Support for P-DESTRE dataset
-- ✅ Batch inference and single image processing
-- ✅ Data statistics and analysis tools
-- ✅ Modular and extensible architecture
+- YOLOv10-based person detection
+- ResNet50-based demographic feature classification
+- Support for P-DESTRE dataset
+- Batch inference and single image processing
+- Data statistics and analysis tools
+- Modular and extensible architecture
 
 ## Requirements
 
